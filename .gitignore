@@ -1,0 +1,12 @@
+# Ignore directories
+downloaded_threads/
+markdown_files/
+_pycache_/
+venv/
+.venv/
+
+# Ignore files
+.env
+preprocess.py
+*.pyc
+.DS_Store
